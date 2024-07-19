@@ -1,38 +1,59 @@
 ---
-title: "About Me"
+title: "Chenyuan (Terry) Zhang's LinkedIn Profile"
 date: 2024-07-19
-draft: false
 ---
 
-# Hi there! I'm Alex, a Software Engineer at Northeastern University 👋
+## Chenyuan (Terry) Zhang
+**Pronouns:** He/Him  
+**Role:** Master's Student in Data Analytics Engineering  
+**Objective:** Seeking Summer/Fall 2024 Co-op & Internships  
 
-I'm a recent graduate from Northeastern University's Khoury College of Computer Sciences, where I earned my Bachelor's degree in Computer Science with a minor in Data Science. During my time at Northeastern, I had the incredible opportunity to participate in the university's renowned co-op program, which allowed me to gain real-world experience working as a software engineer at several top-tier tech companies.
+**Location:** Boston, Massachusetts, United States  
+**University:** Northeastern University  
+**Contact Information:** [Contact info](#)  
+**Connections:** 30  
 
-## My Passion for Technology 💻
+### Open to Work
+- **Roles:** Data Scientist, Data Analyst, Data Engineer, Business Analyst  
 
-From a young age, I've been fascinated by the power of technology to solve complex problems and improve people's lives. This passion led me to pursue a career in software engineering, where I can continuously learn and innovate while working on projects that make a meaningful impact.
+### Experience
 
-## My Co-op Experience 🚀
+#### Data Scientist
+**Company:** Chaozhi AI  
+**Duration:** Mar 2023 - Jul 2023  
+**Location:** Shanghai, China  
+**Details:**
+- Utilized NLP techniques to analyze over 740,000 online texts, uncovering technology trends and key players in the 3D printing industry.
+- Collaborated with industry experts to tailor four dynamic dashboards, enabling quick insights into 3D printing trends and key players.
+- Automated the generation and distribution of analytical reports using Python and the GPT-3.5 API, cutting the time needed for email newsletter publication by 75%.
+- Led dashboard and functional design for a construction site monitoring system, delivering a comprehensive business bid proposal alongside technical documentation.
+- **Skills:** Python (Programming Language), Text Mining
 
-Throughout my time at Northeastern, I completed three six-month co-op placements:
+#### Data Analyst
+**Company:** BigOne Lab  
+**Duration:** Oct 2022 - Feb 2023  
+**Location:** Shanghai, China  
+**Details:**
+- Streamlined client report generation and distribution with PySpark on AWS S3, cutting time by 80% and scaling for 3 clients with full documentation for future expansion.
+- Enhanced the model accuracy of sales forecasts by 20% through analyzing and rectifying price and sales anomalies across products and categories.
+- Developed 2 dashboards for analysts, enabling effective anomaly detection and trend analysis, boosting analysis efficiency by 80% and the quality of analytical reports.
+- **Skills:** SQL, Data Visualization
 
-1. **Software Engineering Intern at Amazon Web Services (AWS)**: I worked on the Elastic Compute Cloud (EC2) team, contributing to the development of new features and optimizations for AWS's flagship compute service.
+#### Data Analyst
+**Company:** BUWUS  
+**Duration:** May 2021 - Jul 2021  
+**Location:** Guangzhou, Guangdong, China  
+**Details:**
+- Crafted tailored Tableau dashboards and Excel reports for advertising strategy analysis, enhancing decision-making for different stakeholders.
+- Generated tailored weekly reports on ad expenditure and traffic for stakeholders, informing strategy adjustments across platforms and regions.
+- **Skills:** Microsoft Excel, Tableau
 
-2. **Full Stack Developer at HubSpot**: As part of the Marketing Hub team, I collaborated with designers and product managers to build and maintain user-facing features for HubSpot's marketing automation platform.
+### Education
 
-3. **Machine Learning Engineer at NVIDIA**: I joined the AI Research team, where I worked on developing and implementing novel deep learning algorithms for computer vision tasks, such as object detection and semantic segmentation.
+#### Northeastern University
+**Degree:** Master of Science - MS, Data Analytics Engineering  
+**Duration:** Sep 2023 - May 2025  
 
-## My Skills and Interests 🧠
-
-- **Programming Languages**: Python, Java, C++, JavaScript, TypeScript
-- **Web Development**: React, Node.js, Express, HTML, CSS
-- **Databases**: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, DynamoDB)
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras
-- **Cloud Computing**: AWS, Google Cloud Platform, Microsoft Azure
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines, Git
-
-When I'm not coding, you can find me exploring the great outdoors 🌲, playing soccer with friends ⚽️, or diving into a good science fiction novel 📚.
-
-## Let's Connect! 🤝
-
-I'm always eager to learn from others and collaborate on exciting projects. Feel free to reach out to me via [email](mailto:alex@example.com), [LinkedIn](https://www.linkedin.com/in/alex-example/), or [GitHub](https://github.com/alex-example). I look forward to connecting with you!
+#### University of Connecticut
+**Degree:** Bachelor's degree, Applied Mathematics  
+**Duration:** Aug 2018 - Jun 2022  
